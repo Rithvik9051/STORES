@@ -12,7 +12,7 @@
     <div class="bg-container">
         <div class="d-flex flex-roe justify-content-start">
             <h1 class="main-heading">shop in your favourite stores</h1>
-            <img src="https://assets.ccbp.in/frontend/static-website/yoga-bg.png" class="image" />
+            <img src="https://assets.ccbp.in/frontend/static-website/stores-img.png" class="image" />
         </div>
         <div class="button-card">
             <h1 class="card-heading">Select your store with one click</h1>
