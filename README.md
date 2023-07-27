@@ -52,44 +52,5 @@
 </body>
 
 </html>
-.card-item {
-    background-image: url("");
-    height: 30vh;
-    background-size: cover;
-}
 
-.image {
-    height: 180px;
-    width: 400px;
-    padding-top: 10px;
-}
 
-.button-card {
-    background-color: #ffffff;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    padding: 20px;
-    height: 500px;
-    background-size: cover;
-}
-
-.button-headig {
-    font-family: "Roboto";
-    font-size: 25px;
-    color: #f780c3;
-    font-weight: bold;
-    padding: 8px;
-}
-
-.image-1 {
-    height: 60px;
-    width: 60px;
-}
-
-.card-heading {
-    color: #323f4b;
-    font-family: "Roboto";
-    font-size: 25px;
-    font-weight: bold;
-    padding-left: 15px;
-}
