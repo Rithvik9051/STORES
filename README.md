@@ -17,28 +17,28 @@
         <div class="button-card">
             <h1 class="card-heading">Select your store with one click</h1>
             <div class="d-flex flex-row justify-content-start">
-                <img src="https://assets.ccbp.in/frontend/static-website/yoga-card2-img.png" class="image-1" />
+                <img src="https://assets.ccbp.in/frontend/static-website/amazon-logo-img.png" class="image-1" />
             </div>
             <h1 class="card-heading">Amazon</h1>
             <p class="card-para">Online shopping free shipping & cash on delivery ...</p>
         </div>
     </div>
     <div class="d-flex flex-row justify-content-start">
-        <img src="https://assets.ccbp.in/frontend/static-website/yoga-card2-img.png" class="image-1" />
+        <img src="https://assets.ccbp.in/frontend/static-website/ikea-logo-img.png" class="image-1" />
         <div>
             <h1 class="card-heading">IKEA</h1>
             <p class="card-para">Online shopping free shipping & cash on delievary...</p>
         </div>
     </div>
     <h1 class="d-flex flex-row justify-content-start">
-        <img src="https://assets.ccbp.in/frontend/static-website/yoga-card3-img.png" class="image-1" />
+        <img src="https://assets.ccbp.in/frontend/static-website/bewakoof-logo-img.png" class="image-1" />
         <div>
             <h1 class="card-heading">Bewakoof</h1>
             <p class="card-para">Online shopping free shipping on delivery ...</p>
         </div>
         </div>
         <div class="d-flex flex-row justify-content-start">
-            <img src="" class="image-1" />
+            <img src="https://assets.ccbp.in/frontend/static-website/flipkart-logo-img.png" class="image-1" />
         </div>
         <h1 class="card-heading">Flipkar</h1>
         <p class="card-para">Online shopping free shipping & cah on delivery...</p>
